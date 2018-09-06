@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Gestion.Vistas
 {
-    public partial class Login : DevComponents.DotNetBar.RibbonForm
+    public partial class Login : DevComponents.DotNetBar.Office2007Form
     {
         public Login()
         {
