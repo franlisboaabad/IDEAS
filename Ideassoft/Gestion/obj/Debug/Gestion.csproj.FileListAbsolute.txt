@@ -1,7 +1,6 @@
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.csprojResolveAssemblyReference.cache
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.Properties.Resources.resources
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
-C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.Vistas.VIsual.resources
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\Gestion.exe.config
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\Gestion.exe
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\Gestion.pdb
@@ -9,6 +8,8 @@ C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bi
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\MySql.Data.dll
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\Google.Protobuf.dll
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\MySql.Data.xml
-C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.Vistas.Principal.resources
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.exe
 C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.pdb
+C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.Vistas.MenuPrincipal.resources
+C:\Users\LISBOA\Documents\Visual Studio 2015\Projects\IDEAS\Ideassoft\Gestion\obj\Debug\Gestion.Vistas.Login.resources
